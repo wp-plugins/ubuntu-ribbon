@@ -15,7 +15,7 @@ Ubuntu ribbon is made to promote Ubuntu.
 
 A Ubuntu ribbon will be put on in the top right corner of your website, linking to the [Ubuntu](http://www.ubuntu.com/) website.
 
-This is a fork of [Stop censorship plugin] (http://wordpress.org/extend/plugins/stop-censorship-ribbon/).
+This is a fork of [Stop censorship plugin](http://wordpress.org/extend/plugins/stop-censorship-ribbon/).
 
 How Ubuntu ribbon looks online see at [ZPop](http://zpop.site90.net/blog/ubuntu-ribbon/) blog.
 
