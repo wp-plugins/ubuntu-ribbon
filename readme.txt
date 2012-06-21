@@ -1,6 +1,6 @@
 === Ubuntu ribbon ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/2011/12/donacije
+Donate link: http://zeljko.popivoda.com/donacije
 Tags: ubuntu, share, spread, spreadubuntu, ribbon
 Requires at least: 2.6.0
 Tested up to: 3.4

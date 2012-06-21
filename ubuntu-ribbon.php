@@ -1,7 +1,12 @@
 <?php
+/**
+ * @package ubuntu-ribbon
+ * @version 0.1
+ */
+/*
 /*
 Plugin Name: Ubuntu Ribbon
-Plugin URI: http://zeljko.popivoda.com/2012/06/ubuntu-ribbon-wordpress-plugin
+Plugin URI: http://wordpress.org/extend/plugins/ubuntu-ribbon
 Description: When activated, this plugin will put a Ubuntu ribbon on the top right corner of your website. This is a fork of Stop censorship plugin.
 Author: Zeljko Popivoda
 Version: 0.1
