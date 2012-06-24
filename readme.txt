@@ -21,6 +21,10 @@ How Ubuntu ribbon looks online see at [ZPop](http://zpop.site90.net/blog/ubuntu-
 
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/06/ubuntu-ribbon-wordpress-plugin) blog plugin page.
 
+My other plugins:
+* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
+* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+
 == Installation ==
 
 1. Upload folder `ubuntu-ribbon` in Wordpress plugin directory `/wp-content/plugins/`.
