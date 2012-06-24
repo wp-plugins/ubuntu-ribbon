@@ -4,7 +4,6 @@
  * @version 0.1
  */
 /*
-/*
 Plugin Name: Ubuntu Ribbon
 Plugin URI: http://wordpress.org/extend/plugins/ubuntu-ribbon
 Description: When activated, this plugin will put a Ubuntu ribbon on the top right corner of your website. This is a fork of Stop censorship plugin.
