@@ -24,6 +24,9 @@ On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-ribbon-wordpre
 My other plugins:
 * [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
 * [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
 
 == Installation ==
 
