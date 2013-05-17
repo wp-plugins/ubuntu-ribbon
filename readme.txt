@@ -1,6 +1,6 @@
 === Ubuntu ribbon ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/donacije
+Donate link: http://zeljko.popivoda.com
 Tags: ubuntu, share, spread, spreadubuntu, ribbon
 Requires at least: 2.6.0
 Tested up to: 3.4
@@ -19,11 +19,14 @@ This is a fork of [Stop censorship plugin](http://wordpress.org/extend/plugins/s
 
 How Ubuntu ribbon looks online see at [ZPop](http://zpop.site90.net/blog/ubuntu-ribbon/) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/2012/06/ubuntu-ribbon-wordpress-plugin) blog plugin page.
+On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-ribbon-wordpress-plugin) blog plugin page.
 
 My other plugins:
 * [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
 * [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
 
 == Installation ==
 
@@ -33,7 +36,7 @@ My other plugins:
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/2012/06/ubuntu-ribbon-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-ribbon-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 
