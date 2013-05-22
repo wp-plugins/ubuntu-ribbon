@@ -1,7 +1,7 @@
 === Ubuntu ribbon ===
 Contributors: zpop
 Donate link: http://zeljko.popivoda.com
-Tags: ubuntu, share, spread, spreadubuntu, ribbon
+Tags: linux, ubuntu, spreadubuntu, ribbon
 Requires at least: 2.6.0
 Tested up to: 3.4
 Stable tag: 0.1
