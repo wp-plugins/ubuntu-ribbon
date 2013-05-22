@@ -15,18 +15,19 @@ Ubuntu ribbon is made to promote Ubuntu.
 
 A Ubuntu ribbon will be put on in the top right corner of your website, linking to the [Ubuntu](http://www.ubuntu.com/) website.
 
-This is a fork of [Stop censorship plugin](http://wordpress.org/extend/plugins/stop-censorship-ribbon/).
+This is a fork of [Stop censorship plugin](http://wordpress.org/plugins/stop-censorship-ribbon/).
 
 How Ubuntu ribbon looks online see at [ZPop](http://zpop.site90.net/blog/ubuntu-ribbon/) blog.
 
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/ubuntu-ribbon-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
-* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
-* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
-* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
-* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
+
+* [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
+* [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
+* [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
+* [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
 
 == Installation ==
 
